@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RezeptButtler", "RezeptButtler\RezeptButtler.csproj", "{F6018835-A9EF-477B-AB5B-1917D28516DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6018835-A9EF-477B-AB5B-1917D28516DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6018835-A9EF-477B-AB5B-1917D28516DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6018835-A9EF-477B-AB5B-1917D28516DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6018835-A9EF-477B-AB5B-1917D28516DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBC6623E-7562-49D8-8422-1B95D2C185F0}
+	EndGlobalSection
+EndGlobal
